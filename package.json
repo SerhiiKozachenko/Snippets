@@ -1,0 +1,23 @@
+{
+  "name": "Snippets",
+  "description": "Snippets collection",
+  "version": "0.0.0",
+  "author": {
+      "name": "Sergei Kozachenko",
+      "email": "wbserg@gmail.com"
+  },
+  "keywords": [
+      "wbserg",
+      "snippets",
+      "code"
+  ],
+  "main": "app.js",
+  "dependencies": {
+      "ejs": "0.8.4",
+      "express": "3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
