@@ -7,9 +7,10 @@
       "email": "wbserg@gmail.com"
   },
   "keywords": [
-      "wbserg",
-      "snippets",
-      "code"
+      "Snippets",
+      "JavaScript",
+      "code",
+      "Angular"
   ],
   "main": "app.js",
   "dependencies": {
